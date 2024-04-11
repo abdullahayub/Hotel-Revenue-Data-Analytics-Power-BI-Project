@@ -20,3 +20,7 @@ Abhishek Anand who is a Revenue and Business Manager in the Multinational hotel 
 - Filters: By City, By Room Types, Months and week number.
 - Top Key Metrics: Total revenue, RevPAR (revenue per available room), ADR (Avg Daily Rate), Occupancy %, DSRN (Daily sellable room nights), Realization %, Revenue week on week change %.
 - Charts: % Revenue by Category, Trends by key Metrix, Property by key Metrics, Realization % and ADR by booking platform.
+
+**Project Video**
+
+https://github.com/abdullahayub/Hotel-Revenue-Management/assets/37545634/dc154cc3-8ff3-4e36-8fd1-6183326b726e
