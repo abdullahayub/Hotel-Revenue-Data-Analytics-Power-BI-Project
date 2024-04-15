@@ -1,4 +1,4 @@
-# Hotel-Revenue-Management
+# Hotel-Revenue-Analysis
 
 ### Code basic Challenge real life project challenge in Hospitality Domain
 
